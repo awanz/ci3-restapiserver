@@ -1,2 +1,5 @@
 -   CodeIgniter 3.1.11
     - Update Composer
+-   RestServer Library by chriskacerguis
+    - Install with composer.
+    - Copy file rest.php to config directory.
